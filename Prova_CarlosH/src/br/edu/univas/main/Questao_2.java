@@ -8,7 +8,7 @@ public static void main(String[]args){
 	
 	int s=0,n=0,su=0,sud=0,ce=0,no=0,nor=0;int nu =0,ni=0;
 	
-	for(int i = 0;i<5;i++) {
+	for(int i = 0;i<100;i++) {
 		System.out.println("“Você acredita que a vacina contra o COVID-19 fique pronta ainda em 2020?”");
 		System.out.println("1 para SIM ou 2 para NAO.");
 		nu = sc.nextInt();
